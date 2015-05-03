@@ -1,0 +1,2 @@
+# magestrapp
+Magento Theme Boilerplate
